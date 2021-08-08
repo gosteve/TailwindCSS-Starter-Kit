@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "serve": "http-server src",
+    "prod": "http-server dist",
+    "build": "gulp",
+    "css": "postcss src/css/tailwind.css -o src/css/style.css"
+  },
+  "name": "Tailwind-Starter-Kit",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-purgecss": "^4.0.3",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.10"
+  }
+}
