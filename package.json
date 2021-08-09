@@ -5,7 +5,7 @@
     "build": "gulp",
     "css": "postcss src/css/tailwind.css -o src/css/style.css"
   },
-  "name": "Tailwind-Starter-Kit",
+  "name": "tailwind-starter-kit",
   "version": "1.0.0",
   "main": "gulpfile.js",
   "keywords": [],
