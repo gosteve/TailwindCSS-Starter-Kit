@@ -29,4 +29,15 @@ npm run build
 
 ## 📝Customisation
 
+```
+
+To be filled in later
+
+```
+
 ## 📃Learn more about TailwindCSS
+```
+
+Will add important resources later
+
+```
